@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**AtsumiFlex/AtsumiFlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm AtsumiFlex ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a young french fullstack developer. 
+
+## 🛠 Skills
+Javascript - Typescript
+
+HTML - PUG - EJS
+
+CSS - SCSS
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on my discord bot "Sot"
+
+🧠 I'm currently learning CSS and React.js
