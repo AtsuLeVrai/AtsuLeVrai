@@ -14,6 +14,5 @@ CSS - SCSS
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on my discord bot "Sot"
 
 🧠 I'm currently learning CSS and React.js
