@@ -1,4 +1,4 @@
-# Hello 👋, I'm AtsumiFlex
+# Hello 👋, I'm Tom B.
 
 ## About Me
 I am a passionate young FullStack developer, currently 16 years old. I started coding 5 years ago and have been continually improving and exploring new technologies ever since.
