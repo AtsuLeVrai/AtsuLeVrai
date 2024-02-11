@@ -1,20 +1,28 @@
-# Hello 👋, I'm Tom B.
+# 👋 Hey, I'm @AtsumiFlex!
 
-## About Me
-I am a passionate young FullStack developer, currently 16 years old. I started coding 5 years ago and have been continually improving and exploring new technologies ever since.
+## 🚀 About Me
+I'm a young fullstack developer passionate about creating. I strive to master both front-end and back-end technologies to build complete and efficient solutions.
 
-### 💻 Languages and Tools:
-- **Typescript**: I love using Typescript for its strong typing and modern features that enhance code quality and maintainability.
-- **SCSS**: For styling, SCSS is my go-to for its advanced capabilities that make CSS more powerful and organized.
-- **Node.js**: An essential part of my development stack, Node.js allows me to build robust and efficient backend applications.
+- 🌱 I'm currently focusing on enhancing my skills in React and Node.js.
+- 👯 I'm looking for collaborative projects to apply my skills and learn from others.
+- 🎓 Always learning, I explore the latest tech trends to stay ahead.
+- 💼 Aspiring to become a recognized expert in the fullstack development field.
 
-### 🚀 Current Projects:
-Currently, I am working on creating an **ultimate discord**. This project aims to extend the functionalities of Discord and create an enhanced, personalized user experience.
+## 🛠 Skills & Tools
 
-### 🌱 What I'm Learning Now:
-I am always in pursuit of new skills and knowledge. Right now, I am focusing on deepening my backend development skills and learning new JavaScript/TypeScript libraries and frameworks.
+As a budding fullstack developer, I wield a variety of technologies to bring digital creations to life:
 
-### 📫 How to Reach Me:
-- GitHub: [Link to my GitHub profile](https://github.com/AtsumiFlex/)
+- **Languages**: Typescript (Next, Node.js), HTML5, CSS3, Python 🐍
+- **Frameworks & Libraries**: Next.js, Nest.js
+- **Tools & Platforms**: Git 🐙, GitHub, WebStorm, Postman
+- **Databases**: MongoDB 🍃, MySQL 🐬
 
-![AtsumiFlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=atsumiflex&show_icons=true&theme=radical)
+I am constantly exploring new technologies and tools to enhance my capabilities and contribute to innovative projects.
+
+## 📈 My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtsumiFlex&show_icons=true&theme=tokyonight)
+
+## 📚 Featured Projects
+
+- **Project Alpha**: A discord bot for moderating and protecting your discord servers, giving you peace of mind for your community.
