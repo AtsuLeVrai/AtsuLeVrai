@@ -12,8 +12,8 @@ I'm a young fullstack developer passionate about creating. I strive to master bo
 
 As a budding fullstack developer, I wield a variety of technologies to bring digital creations to life:
 
-- **Languages**: Typescript (Next, Node.js), HTML5, CSS3, Python 🐍
-- **Frameworks & Libraries**: Next.js, Nest.js
+- **Languages**: Typescript, Javascript, HTML5, PugJs, EJS, CSS3, Sass, Python 🐍
+- **Frameworks & Libraries**: Next.js, Nest.js, Vite.js, Parcel.js, discord.js, Mongoose 🍃
 - **Tools & Platforms**: Git 🐙, GitHub, WebStorm, Postman
 - **Databases**: MongoDB 🍃, MySQL 🐬
 
