@@ -15,7 +15,7 @@ My skill set spans a broad array of technologies and tools:
 ```typescript
 export const tools = {
   languages: ["Javascript", "Typescript", "HTML", "CSS", "Sass", "Python", "EJS", "PugJs"],
-  frameworks: ["Discord.js", ""Nextjs", "Nestjs", "Vitejs", "Parceljs", "Mongoose"],
+  frameworks: ["Discord.js", "Nextjs", "Nestjs", "Vitejs", "Parceljs", "Mongoose"],
   tools: ["Git", "GIthub", "Webstrom", "Postman", "Stack", "Notion", "Arc"],
   database: ["MongoDB", "Mysql"]
 ]
