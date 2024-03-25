@@ -1,28 +1,42 @@
-# 👋 Hey, I'm @AtsumiFlex!
+# 🚀 Welcome to @AtsumiFlex's Profile!
 
-## 🚀 About Me
-I'm a young fullstack developer passionate about creating. I strive to master both front-end and back-end technologies to build complete and efficient solutions.
+## 👨‍💻 Who Am I?
+Greetings! I am a passionate fullstack developer dedicated to coding and creating innovative digital solutions. My mission? To turn ideas into functional, beautiful, and high-performing realities.
 
-- 🌱 I'm currently focusing on enhancing my skills in React and Node.js.
-- 👯 I'm looking for collaborative projects to apply my skills and learn from others.
-- 🎓 Always learning, I explore the latest tech trends to stay ahead.
-- 💼 Aspiring to become a recognized expert in the fullstack development field.
+- 🌱 Currently diving deep into the realms of React and Node.js to further sharpen my skills.
+- 👯 Looking to engage in collaborative projects where I can contribute and learn from my peers.
+- 🎓 A perpetual learner, I always stay ahead of the latest tech trends to ensure I'm never left behind.
+- 💼 My ambition? To become a go-to expert in the fullstack development landscape.
 
-## 🛠 Skills & Tools
+## 🛠️ Tools of the Trade
 
-As a budding fullstack developer, I wield a variety of technologies to bring digital creations to life:
+My skill set spans a broad array of technologies and tools:
 
-- **Languages**: Typescript, Javascript, HTML5, PugJs, EJS, CSS3, Sass, Python 🐍
-- **Frameworks & Libraries**: Next.js, Nest.js, Vite.js, Parcel.js, discord.js, Mongoose 🍃
-- **Tools & Platforms**: Git 🐙, GitHub, WebStorm, Postman
-- **Databases**: MongoDB 🍃, MySQL 🐬
+```typescript
+export const tools = {
+  languages: ["Javascript", "Typescript", "HTML", "CSS", "Sass", "Python", "EJS", "PugJs"],
+  frameworks: ["Discord.js", ""Nextjs", "Nestjs", "Vitejs", "Parceljs", "Mongoose"],
+  tools: ["Git", "GIthub", "Webstrom", "Postman", "Stack", "Notion", "Arc"],
+  database: ["MongoDB", "Mysql"]
+]
+```
 
-I am constantly exploring new technologies and tools to enhance my capabilities and contribute to innovative projects.
+I am constantly exploring new technologies to push the boundaries of what I can create and contribute to groundbreaking projects.
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtsumiFlex&show_icons=true&theme=tokyonight)
 
-## 📚 Featured Projects
+## 💡 Highlighted Projects
 
-- **Project Alpha**: A discord bot for moderating and protecting your discord servers, giving you peace of mind for your community.
+### Zen - Discord Moderation Bot [PRIVATE]
+**Zen** is your silent guardian. A Discord bot designed to maintain order and peace, equipped with advanced moderation tools to protect and manage your community effortlessly.
+
+### Scholara - Platform for Students [PRIVATE]
+**Scholara** is the student's oasis; a resource-rich site designed to support students' educational journey by offering a space to learn, share, and grow together.
+
+### Aura - Framework for Discord API
+**Aura** is a groundbreaking framework for Discord developers, simplifying the creation and management of Discord applications and bots with unprecedented efficiency and simplicity.
+
+### Portfolio - [PRIVATE]
+Explore my **Portfolio**, a showcase of my skills, projects, and achievements. It's a reflection of my passion for development and my commitment to creating impactful digital solutions.
