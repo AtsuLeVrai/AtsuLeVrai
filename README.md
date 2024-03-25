@@ -29,14 +29,14 @@ I am constantly exploring new technologies to push the boundaries of what I can 
 
 ## 💡 Highlighted Projects
 
-### Zen - Discord Moderation Bot [PRIVATE]
+### 🤖 Zen - Discord Moderation Bot [PRIVATE]
 **Zen** is your silent guardian. A Discord bot designed to maintain order and peace, equipped with advanced moderation tools to protect and manage your community effortlessly.
 
-### Scholara - Platform for Students [PRIVATE]
+### 🏫 Scholara - Platform for Students [PRIVATE]
 **Scholara** is the student's oasis; a resource-rich site designed to support students' educational journey by offering a space to learn, share, and grow together.
 
-### Aura - Framework for Discord API
+### 🔗 Aura - Framework for Discord API
 **Aura** is a groundbreaking framework for Discord developers, simplifying the creation and management of Discord applications and bots with unprecedented efficiency and simplicity.
 
-### Portfolio - [PRIVATE]
+### 💼 Portfolio - [PRIVATE]
 Explore my **Portfolio**, a showcase of my skills, projects, and achievements. It's a reflection of my passion for development and my commitment to creating impactful digital solutions.
