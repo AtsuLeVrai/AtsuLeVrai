@@ -35,7 +35,7 @@ I am constantly exploring new technologies to push the boundaries of what I can 
 ### 🏫 Scholara - Platform for Students [PRIVATE]
 **Scholara** is the student's oasis; a resource-rich site designed to support students' educational journey by offering a space to learn, share, and grow together.
 
-### 🔗 Aura - Framework for Discord API
+### 🔗 AuraJs - Framework for Discord API
 **Aura** is a groundbreaking framework for Discord developers, simplifying the creation and management of Discord applications and bots with unprecedented efficiency and simplicity.
 
 ### 💼 Portfolio - [PRIVATE]
