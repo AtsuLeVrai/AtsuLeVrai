@@ -17,7 +17,7 @@ export const skills = {
   languages: ["Javascript", "Typescript", "HTML", "CSS", "Sass", "Python", "EJS", "PugJs"],
   frameworks: ["Discord.js", "Nextjs", "Nestjs", "Vitejs", "Parceljs", "Mongoose"],
   tools: ["Git", "Github", "Webstrom", "Postman", "Slack", "Notion", "Arc"],
-  database: ["MongoDB", "Mysql"]
+  database: ["MongoDB", "Mysql", "Supabase", "Postgresql", "Firabase"]
 ]
 ```
 
