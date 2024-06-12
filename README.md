@@ -18,7 +18,7 @@ export const skills = {
   frameworks: ["Discord.js", "Nextjs", "Nestjs", "Vitejs", "Parceljs", "Mongoose"],
   tools: ["Git", "Github", "Webstrom", "Postman", "Slack", "Notion", "Arc"],
   database: ["MongoDB", "Mysql", "Supabase", "Postgresql", "Firabase"]
-]
+}
 ```
 
 I am constantly exploring new technologies to push the boundaries of what I can create and contribute to groundbreaking projects.
