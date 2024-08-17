@@ -1,4 +1,4 @@
-# 🚀 Welcome to @AtsumiFlex's Profile!
+# 🚀 Welcome to @3tatsu's Profile!
 
 ## 👨‍💻 Who Am I?
 Greetings! I am a passionate fullstack developer dedicated to coding and creating innovative digital solutions. My mission? To turn ideas into functional, beautiful, and high-performing realities.
@@ -25,4 +25,4 @@ I am constantly exploring new technologies to push the boundaries of what I can 
 
 ## 📊 My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtsumiFlex&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=3tatsu&show_icons=true&theme=tokyonight)
