@@ -30,8 +30,11 @@ I specialize in **backend engineering** and **infrastructure development**, with
 
 ### **Backend & Infrastructure**
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=trpc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -44,6 +47,7 @@ I specialize in **backend engineering** and **infrastructure development**, with
 ### **Modern Tooling**
 ![BiomeJS](https://img.shields.io/badge/BiomeJS-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -64,11 +68,6 @@ I'm always interested in discussing:
 - **Developer Tools** and improving the JavaScript ecosystem  
 - **Open Source Collaboration** on impactful projects
 - **Freelance Opportunities** in backend development and infrastructure
-
-### 📬 Reach Out
-- **Discord:** AtsuLeVrai
-- **Email:** [Your email if you want to share]
-- **Open to:** Full-time, Contract, and Collaboration opportunities
 
 ---
 
